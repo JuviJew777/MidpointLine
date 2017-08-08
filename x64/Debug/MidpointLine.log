@@ -1,0 +1,5 @@
+﻿  MidpointLine.cpp
+c:\users\david\documents\github\desarrollo\grafico\principiosdecg\midpointline\midpointline.cpp(16): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\david\documents\github\desarrollo\grafico\principiosdecg\midpointline\midpointline.cpp(17): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  MidpointLine.vcxproj -> C:\Users\David\Documents\GitHub\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\MidpointLine.exe
+  MidpointLine.vcxproj -> C:\Users\David\Documents\GitHub\Desarrollo\Grafico\PrincipiosDeCG\x64\Debug\MidpointLine.pdb (Partial PDB)
